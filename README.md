@@ -1,19 +1,13 @@
-# Crypto Price Alert Tool
+<h1 align="center">Crypto Price Alert Tool</h1>
 
-A terminal dashboard that tracks live crypto prices from Binance and alerts you when a coin hits your target.
+<p align="center">A terminal dashboard that tracks live crypto prices from Binance and alerts you when a coin hits your target.</p>
 
 <p align="center">
-    <a href="https://www.python.org/">
-        <img src="https://img.shields.io/badge/python-3.10%2B-blue">
-    </a>
-    <br/>
-    <a href="https://github.com/Affaniqbal234/crypto-price-alert">
-        <img src="https://img.shields.io/badge/github-repo-blue?logo=github">
-    </a>
-    <a href="https://github.com/Affaniqbal234/crypto-price-alert/blob/main/LICENSE">
-        <img src="https://img.shields.io/badge/License-MIT-green">
-    </a>
+    <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3.10+-3776ab?logo=python&logoColor=white" alt="Python"></a>
+    <a href="https://github.com/Affaniqbal234/crypto-price-alert"><img src="https://img.shields.io/badge/github-repo-181717?logo=github" alt="GitHub"></a>
+    <a href="https://github.com/Affaniqbal234/crypto-price-alert/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green" alt="License"></a>
 </p>
+<br/>
 
 ---
 
