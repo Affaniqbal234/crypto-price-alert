@@ -7,7 +7,6 @@
     <a href="https://github.com/Affaniqbal234/crypto-price-alert"><img src="https://img.shields.io/badge/github-repo-181717?logo=github" alt="GitHub"></a>
     <a href="https://github.com/Affaniqbal234/crypto-price-alert/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green" alt="License"></a>
 </p>
-<br/>
 
 ---
 
